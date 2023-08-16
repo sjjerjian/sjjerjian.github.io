@@ -1,5 +1,20 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Steven Jerjian
+author: Steven Jerjian
+description: Website under development
+show_downloads: false
+
+
 theme: jekyll-theme-cayman
+
+navbar-links:
+  Blog: "blog"
+  Research: "research"
+  CV: "resume"
+
+
+social-network-links:
+  email: "steven.jerjian@gmail.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+  github: sjjerjian
+  twitter: sjjerjian
