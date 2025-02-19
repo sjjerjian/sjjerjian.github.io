@@ -1,0 +1,1 @@
+mv assets/css/beautifuljekyll.css assets/css/beautifuljekyll.scss 

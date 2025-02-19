@@ -1,0 +1,74 @@
+<div class="sidebar-toc">
+    <div class="toc-header">Contents</div>
+    <ul id="markdown-toc">
+      {% assign content = content | strip_newlines %}
+      {% assign headers = content | split: '<h2' %}
+      {% for header in headers %}
+        {% if header contains '</h2>' %}
+          {% assign title_with_class = header | split: '</h2>' | first | split: '>' | last %}
+          {% assign title = title_with_class | split: 'class=' | first %}
+          {% assign header_id = title | slugify %}
+          {% unless title contains "project-tagline" %}
+            <li>
+              <a href="#{{ header_id }}">{{ title }}</a>
+            </li>
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+<style>
+.sidebar-toc {
+  position: fixed;
+  right: 20px;
+  top: 100px;
+  width: 250px;
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+}
+
+.toc-header {
+  font-weight: bold;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 5px;
+}
+
+#markdown-toc {
+  list-style: none;
+  padding-left: 0;
+}
+
+#markdown-toc li {
+  margin-bottom: 8px;
+}
+
+#markdown-toc a {
+  color: #495057;
+  text-decoration: none;
+}
+
+#markdown-toc a:hover {
+  color: #007bff;
+}
+
+@media (max-width: 1200px) {
+  .sidebar-toc {
+    display: none;
+  }
+}
+
+/* Adjust main content to make room for sidebar */
+.main-content {
+  max-width: calc(100% - 300px);
+}
+
+@media (max-width: 1200px) {
+  .main-content {
+    max-width: 100%;
+  }
+}
+</style> 

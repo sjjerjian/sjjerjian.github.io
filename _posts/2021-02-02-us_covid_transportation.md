@@ -1,0 +1,45 @@
+---
+title: Mass Transit in the age of COVID-19
+subtitle: What lies on the tracks ahead?
+layout: default
+description: 
+tags: [COVID-19, mass transit, US, policy]
+---
+
+On 23rd January 2020, authorities in Wuhan, China, shuttered the entire city public transit network to fight the spread of coronavirus. Nonetheless, the virus was already rapidly spreading around the world. By early April, New York City subway ridership had plummeted by 92% as travel was strongly discouraged and stay-at-home orders were in place.
+
+While the freefall of international air travel amid the pandemic may have garnered the most public attention, the short-term impacts closer to the ground have been just as severe. Public transit administrations, many already struggling, are now facing crises. Fare revenue and passenger numbers collapsed across the world in early 2020, and slow, unsteady recoveries have followed over the months since<span id="ref-1-up">[[1](#ref-1)][[2](#ref-2)]. Adjustments in service schedules have saved some expenses, but with the need to avoid overcrowding, many services still run well below capacity, and enhanced cleaning protocols have been costly. Meanwhile, the toll of COVID-19 on transit workers has been dire [[3](#ref-3)][[4](#ref-4)]. 
+
+To alleviate the short-term economic impacts of COVID-19 and keep transit systems treading water, US policymakers have strived to incorporate financial aid in support packages. The CARES Act passed in March last year included $25 billion for the Federal Transport Administration to allocate to public transit. However, there remain pleas for more support to stave off further service cuts and staff layoffs [[5](#ref-5)][[6](#ref-6)]. In December, leaders from Washington D.C., Maryland, and Virginia urged the then-incoming Biden-Harris administration to increase federal funding and make a long-term commitment to the D.C. area metro network, which has underpinned federal government operations for some time. The network now faces a $500 million shortfall by 2022 and may have to eliminate 3,800 positions [[7](#ref-7)]. 
+
+Even as widespread vaccination by mid-2021 has become a welcome possibility, the future of public transport depends on rehabilitating public confidence in its safety, and strategic investment to improve and expand viable transit options.  
+
+Despite initial fears that outbreaks in cities like New York were exacerbated by transit use, evidence from a report commissioned by the American Public Transportation Agency (APTA), suggests limited COVID-19 transmission risk for passengers on mass transit systems, at least for short journeys, due to a combination of reduced crowds, mask mandates, sanitization protocols, and ventilation systems8. Ridership levels have not fluctuated in line with recent surges in COVID-19 cases in the US and multiple countries in Europe and Asia, and no known ‘super-spreader’ events have been linked to mass transit. However, the weak recoveries in transit ridership but faster rebounds in car use following the easing of initial restrictions suggest that fears over COVID-19 may be driving those with the option to favor the convenience and perceived safety of private vehicles [[9](#ref-9)].  As new information and data on the efficacy of safety measures on public transit become available, strong cross-platform messaging on these facts, from transit administrations, advocates, and local leaders, is essential to assuage public fears and attract riders. Effective campaigns to encourage personal hygiene and the importance of mask-wearing on transit (belatedly mandated by the CDC [[10](#ref-10)]) have restricted the incidence of outbreaks and provide a ready blueprint. 
+
+Beyond this, structured investment is also critical to bolster and expand existing networks, as well as improving service reliability, to encourage ridership. In a world adjusting to the devastation caused by the pandemic, investment can support the implementation of contactless payment technologies, and the development and deployment of apps providing health guidance, as well as detailed, real-time updates on services, crowding levels, and passenger flow [[8](#ref-8)]. These will all be essential for managing increases in ridership levels while maintaining appropriate safety procedures. 
+
+Although it remains to be seen in what capacity those working from home return to physical workspaces, the benefits of investing in transit systems are several-fold. Transit systems across the world have continued critical operations to provide travel for many essential workers on the pandemic frontline. In the US, lower-income workers, students, and people of color constitute a large proportion of public transit riders, making investment in these systems a matter of racial and socioeconomic equity. Investment in public transport directly provides and maintains jobs and stimulates economies by improving accessibility. Safe, efficient networks can drive reductions in congestion, emissions and the incidence of road traffic accidents. Through interfaces with cycling options and walkable neighborhoods as part of a coordinated transport and ‘streetscaping’ policy, incentivizing people to drive less can make timely and necessary contributions to a healthier population and a healthier planet [[11](#ref-11)][[12](#ref-12)]. Beyond the current turmoil and longer-term global ramifications of COVID-19, the existential threat of climate change looms large.
+
+The financial strain many US transit administrations were under even before COVID-19 mean that, investment to modernize and revitalize local and national transit infrastructure should be a legislative priority for the new administration and Transportation Secretary, Pete Buttigieg. Encouragingly, Biden’s American Rescue Plan proposes $20 billion in relief funding for transit agencies, acknowledging their essential role in rebuilding the economy [[13](#ref-13)].
+
+While the economic and human cost of COVID-19 on public transit worldwide has been heavy, there is a unique opportunity for countries, not least the US, to steer clear of a regressive increase in private car use, and ensure that a robust and equitable economic recovery, as well as the battle against climate change, are spearheaded by sustainable and green modes of public transport. 
+
+
+References (last accessed 01/31/2021)
+{: #references }
+
+1.	{: #ref-1 } [[↑]](#ref-1-up) [Transit operators across the globe face a reckoning](https://www.politico.com/states/new-york/albany/story/2020/10/19/transit-operators-across-the-globe-face-a-reckoning-1327371)
+2.	{: #ref-2 } [[↑]](#ref-2-up) [Impact of COVID-19 on public transport](https://www.theigc.org/blog/impact-of-covid-19-on-public-transport/)
+3.	{: #ref-3 } [[↑]](#ref-3-up) [Six months into the pandemic, transit workers are still dying](https://prospect.org/coronavirus/six-months-into-the-pandemic-transit-workers-are-still-dying/)
+4.	{: #ref-4 } [[↑]](#ref-4-up) [Public transit and the coronavirus pandemic: global research and best practices](https://www.apta.com/research-technical-resources/research-reports/public-transit-and-covid-19-pandemic-global-research-and-best-practices/)
+5.	{: #ref-5 } [[↑]](#ref-5-up) [New Heroes Act is critical to public transit survival](https://www.apta.com/news-publications/press-releases/releases/new-heroes-act-is-critical-to-public-transit-survival/)
+6.	{: #ref-6 } [[↑]](#ref-6-up) [New COVID-19 relief bill starves transit again](https://usa.streetsblog.org/2020/12/15/new-covid-19-relief-bill-starves-transit-again/)
+7.	{: #ref-7 } [[↑]](#ref-7-up) [DC, Maryland, Virginia call for additional federal funding for WMATA](https://mayor.dc.gov/release/dc-maryland-virginia-call-additional-federal-funding-wmata)
+8.	{: #ref-8 } [[↑]](#ref-8-up) [Public transit and the coronavirus pandemic: global research and best practices](https://www.apta.com/research-technical-resources/research-reports/public-transit-and-covid-19-pandemic-global-research-and-best-practices/)
+9.	{: #ref-9 } [[↑]](#ref-9-up) [COVID-19 and public transit decline](https://usafacts.org/articles/covid-public-transit-decline/)
+10.	{: #ref-10 } [[↑]](#ref-10-up) [Biden's travel plans: transportation, airlines, and coronavirus pandemic](https://apnews.com/article/joe-biden-travel-transportation-airlines-coronavirus-pandemic-70025b2a6e1cc0ec44be214ba08c94a4)
+11.	{: #ref-11 } [[↑]](#ref-11-up) [Transit is in a death spiral: better service, bus lanes, and other smart investments can save it](https://www.masstransitmag.com/management/news/21202717/ca-editorial-transit-is-in-a-death-spiral-better-service-bus-lanes-and-other-smart-investments-can-save-it)
+12.	{: #ref-12 } [[↑]](#ref-12-up) [Coronavirus public transport stimulus packages](https://www.wri.org/blog/2020/04/coronavirus-public-transport-stimulus-packages)
+13.	{: #ref-13 } [[↑]](#ref-13-up)[Biden's transportation aid package in the Congressional radar](https://www.ttnews.com/articles/bidens-transportation-aid-covid-19-package-congressional-radar)
+
+ 
